@@ -1,0 +1,20 @@
+[
+
+  {
+    "role": "Software Engineer",
+    "company": "天融信 太行云 - 企业云 / 超融合",
+    "project": "A hyper-converged infrastructure (HCI) solution integrating computing, storage, networking, and security into a unified software-hardware platform, comparable to AWS private cloud solutions. Defined by IDC as an emerging integrated system consolidating storage, compute, and network functionalities into a single software solution or appliance.",
+    "summary": "Contributed to enterprise cloud and hyper-converged infrastructure solutions by developing backend services with Golang.",
+    "range": "2021.09 - 2023.09",
+    "notes": "Worked on versions 3.5.5 and 3.6.0 of the Operations Center, fixing bugs and developing features for cloud containers (Docker) and cloud servers (VMs). Tech stack: Golang, Beego, Docker, KVM, QEMU, Etcd."
+  },
+  {
+    "role": "Software Engineer",
+    "company": "卓朗昆仑云 - 容器云",
+    "project": "An enterprise-level, distributed, multi-tenant container management platform built on Kubernetes. It serves as a next-generation PaaS platform for software development, integration, management, and operations, driven by large-scale, high-reliability cloud services and high-performance internet applications.",
+    "summary": "Built and iterated on Container Cloud versions 2.0 and 3.0 as well as microapi services. Implemented service discovery, canary releases, blue-green deployments, and service mesh for microservices on the Kubernetes-based enterprise container cloud platform.",
+    "range": "2020.11 - 2021.04",
+    "notes": "Developed and maintained microapi service interfaces, collaborated with frontend, and fixed bugs. Tech stack: Golang, Istio, Kubernetes, Iris."
+  }
+  
+]
